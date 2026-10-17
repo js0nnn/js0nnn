@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560" role="img" aria-labelledby="t">
-<title id="t">Tech arsenal as a chip pinout. Languages: C, C++, Python, Java, SQL, QML. Hardware: STM32, ESP32, Arduino, RPi 5, Jetson, TI mmWave. Buses: UART, SPI, I2C, DMA, ADC, PWM, EXTI. Software and tools: FreeRTOS, Qt, OpenCV, YOLO, CubeIDE, ESP-IDF, Linux, Git.</title>
+<title id="t">Tech arsenal as a chip pinout. Languages: C, C++, Python, Java, SQL, QML. Hardware: STM32, ESP32, Arduino, RPi 5, Jetson, TI mmWave. Buses: UART, SPI, I2C, DMA, ADC, PWM, EXTI, LoRa. Software and tools: FreeRTOS, Qt, OpenCV, YOLO, CubeIDE, ESP-IDF, Linux, Git.</title>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
 .p{fill:#8b949e;animation:lit .25s forwards}
@@ -32,22 +32,23 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="p" style="--c:#e3b341;animation-delay:1.76s" x="530.0" y="296.8" width="26" height="10" rx="1.5"/><text class="lb" style="animation-delay:1.76s" x="566.0" y="301.8" fill="#e6edf3" text-anchor="start" dominant-baseline="middle">RPi 5</text>
 <rect class="p" style="--c:#e3b341;animation-delay:1.84s" x="530.0" y="328.5" width="26" height="10" rx="1.5"/><text class="lb" style="animation-delay:1.84s" x="566.0" y="333.5" fill="#e6edf3" text-anchor="start" dominant-baseline="middle">Jetson</text>
 <rect class="p" style="--c:#e3b341;animation-delay:1.92s" x="530.0" y="360.2" width="26" height="10" rx="1.5"/><text class="lb" style="animation-delay:1.92s" x="566.0" y="365.2" fill="#e6edf3" text-anchor="start" dominant-baseline="middle">TI mmWave</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.00s" x="259.3" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.00s" x="264.3" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 264.3 135.0)">UART</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.08s" x="297.9" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.08s" x="302.9" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 302.9 135.0)">SPI</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.16s" x="336.4" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.16s" x="341.4" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 341.4 135.0)">I2C</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.24s" x="375.0" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.24s" x="380.0" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 380.0 135.0)">DMA</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.32s" x="413.6" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.32s" x="418.6" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 418.6 135.0)">ADC</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.40s" x="452.1" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.40s" x="457.1" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 457.1 135.0)">PWM</text>
-<rect class="p" style="--c:#d2a8ff;animation-delay:2.48s" x="490.7" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.48s" x="495.7" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 495.7 135.0)">EXTI</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.00s" x="256.9" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.00s" x="261.9" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 261.9 135.0)">UART</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.08s" x="290.6" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.08s" x="295.6" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 295.6 135.0)">SPI</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.16s" x="324.4" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.16s" x="329.4" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 329.4 135.0)">I2C</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.24s" x="358.1" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.24s" x="363.1" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 363.1 135.0)">DMA</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.32s" x="391.9" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.32s" x="396.9" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 396.9 135.0)">ADC</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.40s" x="425.6" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.40s" x="430.6" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 430.6 135.0)">PWM</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.48s" x="459.4" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.48s" x="464.4" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 464.4 135.0)">EXTI</text>
+<rect class="p" style="--c:#d2a8ff;animation-delay:2.56s" x="493.1" y="145.0" width="10" height="26" rx="1.5"/><text class="lb" style="animation-delay:2.56s" x="498.1" y="135.0" fill="#e6edf3" text-anchor="start" dominant-baseline="middle" transform="rotate(-90 498.1 135.0)">LoRa</text>
 <text x="100.0" y="163.0" fill="#79c0ff" text-anchor="middle" style="font-size:11px;letter-spacing:2px">LANG</text>
 <text x="660.0" y="163.0" fill="#e3b341" text-anchor="middle" style="font-size:11px;letter-spacing:2px">MCU / SBC</text>
-<text x="170.0" y="101.0" fill="#d2a8ff" text-anchor="middle" style="font-size:11px;letter-spacing:2px">BUS</text>
+<text x="170.0" y="101.0" fill="#d2a8ff" text-anchor="middle" style="font-size:11px;letter-spacing:2px">BUS / RF</text>
 <text x="600.0" y="481.0" fill="#3fb950" text-anchor="middle" style="font-size:11px;letter-spacing:2px">SW / TOOLS</text>
 <rect x="230.0" y="171.0" width="300" height="230" rx="6" fill="#1c2128" stroke="#30363d"/>
 <circle cx="252.0" cy="193.0" r="7" fill="#0d1117" stroke="#30363d"/>
 <circle class="pulse" cx="252.0" cy="193.0" r="3" fill="#3fb950"/>
 <text x="380" y="264" fill="#e6edf3" text-anchor="middle" style="font-size:22px;font-weight:700;letter-spacing:3px">JS0NNN-H22</text>
 <text x="380" y="292" fill="#8b949e" text-anchor="middle">embedded + edge AI</text>
-<text x="380" y="316" fill="#8b949e" text-anchor="middle" style="font-size:11px">LQFP-27  |  rev 2026.10</text>
+<text x="380" y="316" fill="#8b949e" text-anchor="middle" style="font-size:11px">LQFP-28  |  rev 2026.10</text>
 <text x="380" y="358" fill="#484f58" text-anchor="middle" style="font-size:10px">VIT  |  CSE (AI &amp; ML)</text>
 </svg>

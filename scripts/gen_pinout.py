@@ -5,7 +5,7 @@ from html import escape
 SIDES = {  # side: (group label, colour, pins)
     "left":   ("LANG",      "#79c0ff", ["C", "C++", "Python", "Java", "SQL", "QML"]),
     "right":  ("MCU / SBC", "#e3b341", ["STM32", "ESP32", "Arduino", "RPi 5", "Jetson", "TI mmWave"]),
-    "top":    ("BUS",       "#d2a8ff", ["UART", "SPI", "I2C", "DMA", "ADC", "PWM", "EXTI"]),
+    "top":    ("BUS / RF",  "#d2a8ff", ["UART", "SPI", "I2C", "DMA", "ADC", "PWM", "EXTI", "LoRa"]),
     "bottom": ("SW / TOOLS", "#3fb950", ["FreeRTOS", "Qt", "OpenCV", "YOLO", "CubeIDE", "ESP-IDF", "Linux", "Git"]),
 }
 W, H = 760, 560
