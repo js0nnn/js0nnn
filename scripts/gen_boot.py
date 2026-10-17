@@ -17,7 +17,7 @@ lines = [
     [ts(0.000412)] + dots("cpu0: STM32 F4 / H7", "OK"),
     [ts(0.000418)] + dots("cpu1: ESP32 / Arduino", "OK"),
     [ts(0.000903)] + dots("edge: Raspberry Pi 5 / Jetson Orin Nano", "OK"),
-    [ts(0.001207)] + dots("rf: LoRa, TI mmWave AWR1642 / AWR6843", "OK"),
+    [ts(0.001207)] + dots("rf: LoRa SX1262, TI mmWave AWR1642 / AWR6843", "OK"),
     [ts(0.001550)] + dots("rtos: FreeRTOS scheduler started", "OK"),
     [ts(0.002010)] + dots("bus: UART SPI I2C DMA ADC PWM", "up", C),
     [ts(0.003300), (C, "role: "), (W, "Software Development Intern @ SGF Labs")],

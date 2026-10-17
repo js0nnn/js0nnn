@@ -16,14 +16,14 @@
 ### <img src="assets/headings/tech-arsenal.svg" height="32" alt="tech arsenal"/>
 
 <p align="center">
-  <img src="assets/pinout.svg" width="100%" alt="Tech arsenal as a chip pinout. Languages: C, C++, Python, Java, SQL, QML. Hardware: STM32, ESP32, Arduino, Raspberry Pi 5, Jetson, TI mmWave. Buses and radio: UART, SPI, I2C, DMA, ADC, PWM, EXTI, LoRa. Software and tools: FreeRTOS, Qt, OpenCV, YOLO, STM32CubeIDE, ESP-IDF, Linux, Git."/>
+  <img src="assets/pinout.svg" width="100%" alt="Tech arsenal as a chip pinout. Languages: C, C++, Python, Java, SQL, QML. Hardware: STM32, ESP32, Arduino, Raspberry Pi 5, Jetson, TI mmWave. Buses and radio: UART, SPI, I2C, DMA, ADC, PWM, EXTI, LoRa (SX1262). Software and tools: FreeRTOS, Qt, OpenCV, YOLO, STM32CubeIDE, ESP-IDF, Linux, Git."/>
 </p>
 
 ### <img src="assets/headings/work.svg" height="32" alt="work"/>
 
 | Where | What |
 |---|---|
-| **SGF&nbsp;Labs**<br><sub>Sep 2026 – now</sub> | Firmware for a **LoRa**-connected medical monitoring device on STM32, ESP32 and nRF52; low-power integration and CI build/test pipelines |
+| **SGF&nbsp;Labs**<br><sub>Sep 2026 – now</sub> | Firmware for a **LoRa (SX1262)**-connected medical monitoring device on STM32, ESP32 and nRF52; low-power integration and CI build/test pipelines |
 | **Kivenetics**<br><sub>Nov 2025 – Apr 2026</sub> | PySide/Qt apps for wheelchair control and vitals; Jetson Orin Nano + AWR6843 architecture |
 | **Edsols&nbsp;Innovations**<br><sub>Jun – Jul 2025</sub> | Edge-AI robotics on RPi 4B / Jetson Nano: motor control, obstacle avoidance |
 
