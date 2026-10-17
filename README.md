@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/boot.svg" width="100%" alt="js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; four featured projects probed; two publications."/>
+  <img src="assets/boot.svg" width="100%" alt="js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; six featured projects probed; two publications."/>
 </p>
 
 ### <img src="assets/headings/featured-projects.svg" height="32" alt="featured projects"/>
 
 | Project | What it does |
 |---|---|
-| <img src="assets/icons/bolt.svg" width="20" height="20" alt=""/><br>**[ade9000‑stm32h755](https://github.com/js0nnn/ade9000-stm32h755)** | Dual-core power-quality monitor with a hand-assembled SMD front end. **~1% V / 5% I error**<br><sub>STM32H755, SPI DMA, MQTT, Qt</sub> |
-| <img src="assets/icons/grid-dots.svg" width="20" height="20" alt=""/><br>**[led‑matrix‑32x128](https://github.com/js0nnn/32x128-Large-LED-Matrix-Display)** | Wall clock built from four 32×32 panels (days, hours, minutes, seconds), **4,096 LEDs** synced to NTP over Wi-Fi<br><sub>ESP32, MAX72xx, NTP, Arduino</sub> |
+| <img src="assets/icons/cpu-2.svg" width="20" height="20" alt=""/><br>**[ade9000‑stm32h755](https://github.com/js0nnn/ade9000-stm32h755)** | STM32Cube HAL port of Analog Devices' ADE9000 driver: register access, RMS and energy setup, **DMA waveform-buffer and phase-block reads**<br><sub>C, STM32Cube HAL, SPI DMA, STM32H755</sub> |
+| <img src="assets/icons/bolt.svg" width="20" height="20" alt=""/><br>**[diy‑power‑quality‑analyzer](https://github.com/js0nnn/diy-power-quality-analyzer)** | Hand-soldered SMD ADE9000 on zero PCB, isolated from a dual-core STM32H755: LCD + encoder UI, **MQTT over Wi-Fi**, live waveforms and harmonics. **~1% V / 5% I error**<br><sub>STM32H755, ADE9000, ADuM isolators, ESP8266, PyQt6</sub> |
 | <img src="assets/icons/steering-wheel.svg" width="20" height="20" alt=""/><br>**[tm‑seat‑v1](https://github.com/js0nnn/TM-SEAT-V1)** | Drowsiness-detection seat built with Tata Motors × VIT. **Alerts in 1.5–2 s**, SOS SMS with GPS<br><sub>STM32F407, TI AWR1642, VL53L0X, RPi 5</sub> |
+| <img src="assets/icons/grid-dots.svg" width="20" height="20" alt=""/><br>**[led‑matrix‑32x128](https://github.com/js0nnn/32x128-Large-LED-Matrix-Display)** | Wall clock built from four 32×32 panels (days, hours, minutes, seconds), **4,096 LEDs** synced to NTP over Wi-Fi<br><sub>ESP32, MAX72xx, NTP, Arduino</sub> |
+| <img src="assets/icons/wave-sine.svg" width="20" height="20" alt=""/><br>**[pc‑based‑oscilloscope](https://github.com/js0nnn/PC-Based-Oscilloscope)** | Dual-channel PC oscilloscope with an op-amp front end, **±30 V AC/DC**, live frequency, Vpp and RMS in a Python GUI<br><sub>Arduino, ADS1115, MCP6004, Python, Matplotlib</sub> |
 | <img src="assets/icons/plug-connected.svg" width="20" height="20" alt=""/><br>**[bench‑psu](https://github.com/js0nnn/DIY-Bench-Power-Supply)** | Arduino-controlled bench supply: LCD menu, live V / I / P readout, **constant-current mode**, switchable load and fan<br><sub>Arduino, ACS712, character LCD</sub> |
 
 ### <img src="assets/headings/tech-arsenal.svg" height="32" alt="tech arsenal"/>
@@ -52,7 +54,6 @@
 - [Smart Seat V2](https://github.com/js0nnn/TM-SEAT-V2): multi-controller driver safety with heart-rate sensing and LTE + GPS alerts
 - [Smart 3-Phase Energy Meter](https://github.com/js0nnn/Smart-3-Phase-Energy-Meter): per-phase power, PF and kWh streamed to Blynk
 - [Wi-Fi Water Level Monitor](https://github.com/js0nnn/Wifi_Enabled_Water_Level_Monitor): ultrasonic tank level with OLED, buzzer and Blynk
-- [PC-Based Oscilloscope](https://github.com/js0nnn/PC-Based-Oscilloscope): Arduino front end with a Python UI
 - [Ultrasonic Radar](https://github.com/js0nnn/Ultrasonic-Radar): sonar-style obstacle mapping
 - [Bluetooth Car](https://github.com/js0nnn/Bluetooth-Controlled-Car): phone-controlled RC car
 - [Blynk Home Automation](https://github.com/js0nnn/Blynk-Home-Automation): appliance control over Wi-Fi

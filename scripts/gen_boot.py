@@ -23,10 +23,12 @@ lines = [
     [ts(0.003300), (C, "role: "), (W, "Software Development Intern @ SGF Labs")],
     [ts(0.003301), (C, "edu:  "), (W, "B.Tech CSE (AI & ML), VIT, class of 2027")],
     [ts(0.004000), (W, "probing projects:")],
-    [ts(0.004100), (Y, "  ade9000-stm32h755   "), (D, "power-quality    "), (G, "[ OK ]")],
-    [ts(0.004200), (Y, "  led-matrix-32x128   "), (D, "display          "), (G, "[ OK ]")],
-    [ts(0.004300), (Y, "  tm-seat-v1          "), (D, "driver-safety    "), (G, "[ OK ]")],
-    [ts(0.004400), (Y, "  bench-psu           "), (D, "instrumentation  "), (G, "[ OK ]")],
+    [ts(0.004100), (Y, "  ade9000-stm32h755           "), (D, "driver           "), (G, "[ OK ]")],
+    [ts(0.004200), (Y, "  diy-power-quality-analyzer  "), (D, "power-quality    "), (G, "[ OK ]")],
+    [ts(0.004300), (Y, "  tm-seat-v1                  "), (D, "driver-safety    "), (G, "[ OK ]")],
+    [ts(0.004400), (Y, "  led-matrix-32x128           "), (D, "display          "), (G, "[ OK ]")],
+    [ts(0.004500), (Y, "  pc-based-oscilloscope       "), (D, "instrumentation  "), (G, "[ OK ]")],
+    [ts(0.004600), (Y, "  bench-psu                   "), (D, "instrumentation  "), (G, "[ OK ]")],
     [ts(0.005000), (C, "pub: "), (W, "2 mounted "), (D, "(Elsevier SoftwareX '26, IEEE AIIoT '24)")],
     [ts(0.006000), (G, "ready.")],
 ]
@@ -41,7 +43,7 @@ step = 0.16                      # delay between log lines
 t_login = t_cmd + 0.3 + step * len(lines) + 0.2
 
 out = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="t">
-<title id="t">js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; projects ade9000-stm32h755, led-matrix-32x128, tm-seat-v1 and bench-psu; 2 publications.</title>
+<title id="t">js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; projects ade9000-stm32h755, diy-power-quality-analyzer, tm-seat-v1, led-matrix-32x128, pc-based-oscilloscope and bench-psu; 2 publications.</title>
 <style>
 text{{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:{FS}px;white-space:pre}}
 .l{{opacity:0;animation:on .01s forwards}}
