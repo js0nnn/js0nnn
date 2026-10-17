@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="298" height="32" viewBox="0 0 298 32" role="img" aria-label="js0nnn ~ $ ping js0nnn">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<clipPath id="r"><rect width="298" height="32" rx="6"/></clipPath>
+<g clip-path="url(#r)"><polygon points="0.0,0 96.0,0 108.0,16.0 96.0,32 0.0,32" fill="#238636"/><text x="34.0" y="16.0" fill="#ffffff" dominant-baseline="central" font-weight="700">js0nnn</text><polygon points="96.0,0 140.0,0 152.0,16.0 140.0,32 96.0,32 108.0,16.0" fill="#1f6feb"/><text x="118.0" y="16.0" fill="#ffffff" dominant-baseline="central">~</text><polygon points="140.0,0 264.0,0 276.0,16.0 264.0,32 140.0,32 152.0,16.0" fill="#30363d"/><text x="162.0" y="16.0" fill="#e6edf3" dominant-baseline="central">ping js0nnn</text></g>
+<g transform="translate(10 7.0) scale(0.75)"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14L21 3m0 0l-6.5 18a.55.55 0 0 1-1 0L10 14l-7-3.5a.55.55 0 0 1 0-1z"/></g>
+<rect class="cur" x="284.0" y="8.0" width="8" height="16" fill="#3fb950"/>
+</svg>

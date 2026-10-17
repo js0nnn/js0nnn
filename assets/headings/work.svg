@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="32" viewBox="0 0 330 32" role="img" aria-label="js0nnn /var/log $ cat work">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<clipPath id="r"><rect width="330" height="32" rx="6"/></clipPath>
+<g clip-path="url(#r)"><polygon points="0.0,0 96.0,0 108.0,16.0 96.0,32 0.0,32" fill="#238636"/><text x="34.0" y="16.0" fill="#ffffff" dominant-baseline="central" font-weight="700">js0nnn</text><polygon points="96.0,0 196.0,0 208.0,16.0 196.0,32 96.0,32 108.0,16.0" fill="#1f6feb"/><text x="118.0" y="16.0" fill="#ffffff" dominant-baseline="central">/var/log</text><polygon points="196.0,0 296.0,0 308.0,16.0 296.0,32 196.0,32 208.0,16.0" fill="#30363d"/><text x="218.0" y="16.0" fill="#e6edf3" dominant-baseline="central">cat work</text></g>
+<g transform="translate(10 7.0) scale(0.75)"><g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M3 9a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zm5-2V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2m-4 5v.01"/><path d="M3 13a20 20 0 0 0 18 0"/></g></g>
+<rect class="cur" x="316.0" y="8.0" width="8" height="16" fill="#3fb950"/>
+</svg>

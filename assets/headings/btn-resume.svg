@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32" role="img" aria-label="Resume">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}</style>
+<clipPath id="r"><rect width="110" height="32" rx="6"/></clipPath>
+<polygon clip-path="url(#r)" points="0,0 98.0,0 110.0,16.0 98.0,32 0,32" fill="#8957e5"/>
+<g transform="translate(10 7.0) scale(0.75)"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2M7 11l5 5l5-5m-5-7v12"/></g>
+<text x="34" y="16.0" fill="#ffffff" font-weight="700" dominant-baseline="central">Resume</text>
+</svg>

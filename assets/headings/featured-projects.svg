@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="32" viewBox="0 0 402 32" role="img" aria-label="js0nnn ~/featured-projects $ ls -la">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<clipPath id="r"><rect width="402" height="32" rx="6"/></clipPath>
+<g clip-path="url(#r)"><polygon points="0.0,0 96.0,0 108.0,16.0 96.0,32 0.0,32" fill="#238636"/><text x="34.0" y="16.0" fill="#ffffff" dominant-baseline="central" font-weight="700">js0nnn</text><polygon points="96.0,0 284.0,0 296.0,16.0 284.0,32 96.0,32 108.0,16.0" fill="#1f6feb"/><text x="118.0" y="16.0" fill="#ffffff" dominant-baseline="central">~/featured-projects</text><polygon points="284.0,0 368.0,0 380.0,16.0 368.0,32 284.0,32 296.0,16.0" fill="#30363d"/><text x="306.0" y="16.0" fill="#e6edf3" dominant-baseline="central">ls -la</text></g>
+<g transform="translate(10 7.0) scale(0.75)"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 19H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h4l3 3h7a2 2 0 0 1 2 2v4m-1 8l2-2l-2-2m-3 0l-2 2l2 2"/></g>
+<rect class="cur" x="388.0" y="8.0" width="8" height="16" fill="#3fb950"/>
+</svg>

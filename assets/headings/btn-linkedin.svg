@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" viewBox="0 0 126 32" role="img" aria-label="LinkedIn">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}</style>
+<clipPath id="r"><rect width="126" height="32" rx="6"/></clipPath>
+<polygon clip-path="url(#r)" points="0,0 114.0,0 126.0,16.0 114.0,32 0,32" fill="#0a66c2"/>
+<g transform="translate(10 7.0) scale(0.75)"><g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M8 11v5m0-8v.01M12 16v-5m4 5v-3a2 2 0 1 0-4 0"/><path d="M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4z"/></g></g>
+<text x="34" y="16.0" fill="#ffffff" font-weight="700" dominant-baseline="central">LinkedIn</text>
+</svg>

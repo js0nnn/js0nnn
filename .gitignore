@@ -1,0 +1,9 @@
+[Rr]esume*
+[Cc][Vv]*
+*.pdf
+*.resume.*
+
+# public, PII-free resume is the one PDF allowed in the repo
+!assets/js0nnn-resume.pdf
+
+__pycache__/

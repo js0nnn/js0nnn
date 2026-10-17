@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="472" viewBox="0 0 720 472" role="img" aria-labelledby="t">
+<title id="t">js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; projects ade9000-stm32h755, led-matrix-32x128, tm-seat-v1 and bench-psu; 2 publications.</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;white-space:pre}
+.l{opacity:0;animation:on .01s forwards}
+@keyframes on{to{opacity:1}}
+#tc{animation:type 1.1s steps(21) .3s both}
+@keyframes type{from{width:0}to{width:185px}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l,.cur{animation:none;opacity:1}#tc{animation:none;width:185px}}
+</style>
+<defs><clipPath id="c"><rect id="tc" x="20" y="49" width="0" height="21"/></clipPath></defs>
+<rect width="720" height="472" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="720" height="34" rx="10" fill="#161b22"/><rect y="24" width="720" height="10" fill="#161b22"/>
+<line x1="0" y1="34" x2="720" y2="34" stroke="#30363d"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="360" y="22" fill="#8b949e" text-anchor="middle" style="font-size:12px">js0nnn@github: ~</text>
+<text x="20" y="66" clip-path="url(#c)"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">dmesg | grep js0nnn</tspan></text>
+<text class="l" style="animation-delay:1.40s" x="20" y="93" xml:space="preserve"><tspan fill="#8b949e">[ 0.000000] </tspan><tspan fill="#e6edf3">js0nnn firmware </tspan><tspan fill="#d2a8ff">v2026.10</tspan><tspan fill="#e6edf3"> — booting</tspan></text>
+<text class="l" style="animation-delay:1.56s" x="20" y="114" xml:space="preserve"><tspan fill="#8b949e">[ 0.000412] </tspan><tspan fill="#e6edf3">cpu0: STM32 F4 / H7 </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#3fb950">OK</tspan></text>
+<text class="l" style="animation-delay:1.72s" x="20" y="135" xml:space="preserve"><tspan fill="#8b949e">[ 0.000418] </tspan><tspan fill="#e6edf3">cpu1: ESP32 / Arduino </tspan><tspan fill="#8b949e">......................... </tspan><tspan fill="#3fb950">OK</tspan></text>
+<text class="l" style="animation-delay:1.88s" x="20" y="156" xml:space="preserve"><tspan fill="#8b949e">[ 0.000903] </tspan><tspan fill="#e6edf3">edge: Raspberry Pi 5 / Jetson Orin Nano </tspan><tspan fill="#8b949e">....... </tspan><tspan fill="#3fb950">OK</tspan></text>
+<text class="l" style="animation-delay:2.04s" x="20" y="177" xml:space="preserve"><tspan fill="#8b949e">[ 0.001207] </tspan><tspan fill="#e6edf3">rf: TI mmWave AWR1642 / AWR6843 </tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#3fb950">OK</tspan></text>
+<text class="l" style="animation-delay:2.20s" x="20" y="198" xml:space="preserve"><tspan fill="#8b949e">[ 0.001550] </tspan><tspan fill="#e6edf3">rtos: FreeRTOS scheduler started </tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#3fb950">OK</tspan></text>
+<text class="l" style="animation-delay:2.36s" x="20" y="219" xml:space="preserve"><tspan fill="#8b949e">[ 0.002010] </tspan><tspan fill="#e6edf3">bus: UART SPI I2C DMA ADC PWM </tspan><tspan fill="#8b949e">................. </tspan><tspan fill="#79c0ff">up</tspan></text>
+<text class="l" style="animation-delay:2.52s" x="20" y="240" xml:space="preserve"><tspan fill="#8b949e">[ 0.003300] </tspan><tspan fill="#79c0ff">role: </tspan><tspan fill="#e6edf3">Software Development Intern @ SGF Labs</tspan></text>
+<text class="l" style="animation-delay:2.68s" x="20" y="261" xml:space="preserve"><tspan fill="#8b949e">[ 0.003301] </tspan><tspan fill="#79c0ff">edu:  </tspan><tspan fill="#e6edf3">B.Tech CSE (AI &amp; ML), VIT, class of 2027</tspan></text>
+<text class="l" style="animation-delay:2.84s" x="20" y="282" xml:space="preserve"><tspan fill="#8b949e">[ 0.004000] </tspan><tspan fill="#e6edf3">probing projects:</tspan></text>
+<text class="l" style="animation-delay:3.00s" x="20" y="303" xml:space="preserve"><tspan fill="#8b949e">[ 0.004100] </tspan><tspan fill="#e3b341">  ade9000-stm32h755   </tspan><tspan fill="#8b949e">power-quality    </tspan><tspan fill="#3fb950">[ OK ]</tspan></text>
+<text class="l" style="animation-delay:3.16s" x="20" y="324" xml:space="preserve"><tspan fill="#8b949e">[ 0.004200] </tspan><tspan fill="#e3b341">  led-matrix-32x128   </tspan><tspan fill="#8b949e">display          </tspan><tspan fill="#3fb950">[ OK ]</tspan></text>
+<text class="l" style="animation-delay:3.32s" x="20" y="345" xml:space="preserve"><tspan fill="#8b949e">[ 0.004300] </tspan><tspan fill="#e3b341">  tm-seat-v1          </tspan><tspan fill="#8b949e">driver-safety    </tspan><tspan fill="#3fb950">[ OK ]</tspan></text>
+<text class="l" style="animation-delay:3.48s" x="20" y="366" xml:space="preserve"><tspan fill="#8b949e">[ 0.004400] </tspan><tspan fill="#e3b341">  bench-psu           </tspan><tspan fill="#8b949e">instrumentation  </tspan><tspan fill="#3fb950">[ OK ]</tspan></text>
+<text class="l" style="animation-delay:3.64s" x="20" y="387" xml:space="preserve"><tspan fill="#8b949e">[ 0.005000] </tspan><tspan fill="#79c0ff">pub: </tspan><tspan fill="#e6edf3">2 mounted </tspan><tspan fill="#8b949e">(Elsevier SoftwareX &#x27;26, IEEE AIIoT &#x27;24)</tspan></text>
+<text class="l" style="animation-delay:3.80s" x="20" y="408" xml:space="preserve"><tspan fill="#8b949e">[ 0.006000] </tspan><tspan fill="#3fb950">ready.</tspan></text>
+<text class="l" style="animation-delay:4.16s" x="20" y="450"><tspan fill="#3fb950">js0nnn login: </tspan><tspan class="cur" fill="#e6edf3">█</tspan></text>
+</svg>

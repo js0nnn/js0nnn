@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="32" viewBox="0 0 338 32" role="img" aria-label="js0nnn ~/builds $ tree -L 1">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<clipPath id="r"><rect width="338" height="32" rx="6"/></clipPath>
+<g clip-path="url(#r)"><polygon points="0.0,0 96.0,0 108.0,16.0 96.0,32 0.0,32" fill="#238636"/><text x="34.0" y="16.0" fill="#ffffff" dominant-baseline="central" font-weight="700">js0nnn</text><polygon points="96.0,0 196.0,0 208.0,16.0 196.0,32 96.0,32 108.0,16.0" fill="#1f6feb"/><text x="118.0" y="16.0" fill="#ffffff" dominant-baseline="central">~/builds</text><polygon points="196.0,0 304.0,0 316.0,16.0 304.0,32 196.0,32 208.0,16.0" fill="#30363d"/><text x="218.0" y="16.0" fill="#e6edf3" dominant-baseline="central">tree -L 1</text></g>
+<g transform="translate(10 7.0) scale(0.75)"><g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M5 6a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1z"/><path d="M9 9h6v6H9zm-6 1h2m-2 4h2m5-11v2m4-2v2m7 5h-2m2 4h-2m-5 7v-2m-4 2v-2"/></g></g>
+<rect class="cur" x="324.0" y="8.0" width="8" height="16" fill="#3fb950"/>
+</svg>

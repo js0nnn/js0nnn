@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" viewBox="0 0 126 32" role="img" aria-label="LeetCode">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}</style>
+<clipPath id="r"><rect width="126" height="32" rx="6"/></clipPath>
+<polygon clip-path="url(#r)" points="0,0 114.0,0 126.0,16.0 114.0,32 0,32" fill="#30363d"/>
+<g transform="translate(10 7.0) scale(0.75)"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13h7.5M9.424 7.268l4.999-4.999m2.21 14.375l-2.402 2.415a3.19 3.19 0 0 1-4.524 0l-3.77-3.787a3.223 3.223 0 0 1 0-4.544l3.77-3.787a3.19 3.19 0 0 1 4.524 0l2.302 2.313"/></g>
+<text x="34" y="16.0" fill="#ffffff" font-weight="700" dominant-baseline="central">LeetCode</text>
+</svg>
