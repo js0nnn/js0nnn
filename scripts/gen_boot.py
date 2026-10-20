@@ -19,6 +19,9 @@ lines = [
     [ts(0.000903)] + dots("edge: Raspberry Pi 5 / Jetson Orin Nano", "OK"),
     [ts(0.001207)] + dots("rf: LoRa SX1262, TI mmWave AWR1642 / AWR6843", "OK"),
     [ts(0.001550)] + dots("rtos: FreeRTOS scheduler started", "OK"),
+    [ts(0.001620)] + dots("os: Debian GNU/Linux host", "OK"),
+    [ts(0.001730)] + dots("toolchain: STM32CubeIDE, ESP-IDF", "OK"),
+    [ts(0.001840)] + dots("gui: Qt / PySide6 / QML", "OK"),
     [ts(0.002010)] + dots("bus: UART SPI I2C DMA ADC PWM", "up", C),
     [ts(0.003300), (C, "role: "), (W, "Software Development Intern @ SGF Labs")],
     [ts(0.003301), (C, "edu:  "), (W, "B.Tech CSE (AI & ML), VIT, class of 2027")],
@@ -43,7 +46,7 @@ step = 0.16                      # delay between log lines
 t_login = t_cmd + 0.3 + step * len(lines) + 0.2
 
 out = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="t">
-<title id="t">js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; projects ade9000-stm32h755, diy-power-quality-analyzer, tm-seat-v1, led-matrix-32x128, pc-based-oscilloscope and bench-psu; 2 publications.</title>
+<title id="t">js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave, FreeRTOS, Debian Linux, STM32CubeIDE, ESP-IDF and Qt OK; Software Development Intern at SGF Labs; projects ade9000-stm32h755, diy-power-quality-analyzer, tm-seat-v1, led-matrix-32x128, pc-based-oscilloscope and bench-psu; 2 publications.</title>
 <style>
 text{{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:{FS}px;white-space:pre}}
 .l{{opacity:0;animation:on .01s forwards}}

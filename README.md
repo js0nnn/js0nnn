@@ -23,7 +23,7 @@
 
 | Where | What |
 |---|---|
-| **SGF&nbsp;Labs**<br><sub>Sep 2026 – now</sub> | Firmware for a **LoRa (SX1262)**-connected medical monitoring device on STM32, ESP32 and nRF52; low-power integration and CI build/test pipelines |
+| **SGF&nbsp;Labs**<br><sub>Sep 2026 – now</sub> | Firmware for a LoRa (SX1262)-connected medical monitoring device on STM32, ESP32 and nRF52; low-power integration and CI build/test pipelines |
 | **Kivenetics**<br><sub>Nov 2025 – Apr 2026</sub> | PySide/Qt apps for wheelchair control and vitals; Jetson Orin Nano + AWR6843 architecture |
 | **Edsols&nbsp;Innovations**<br><sub>Jun – Jul 2025</sub> | Edge-AI robotics on RPi 4B / Jetson Nano: motor control, obstacle avoidance |
 
