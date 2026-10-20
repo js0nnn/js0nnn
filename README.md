@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/boot.svg?v=202610180132" width="100%" alt="js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave and FreeRTOS OK; Software Development Intern at SGF Labs; six featured projects probed; two publications."/>
+  <img src="assets/boot.svg?v=202610200000" width="100%" alt="js0nnn boot log: STM32, ESP32, Arduino, Raspberry Pi, Jetson, TI mmWave, FreeRTOS, Debian Linux, STM32CubeIDE, ESP-IDF and Qt OK; Software Development Intern at SGF Labs; six featured projects probed; two publications."/>
 </p>
 
 ### <img src="assets/headings/featured-projects.svg" height="32" alt="featured projects"/>
